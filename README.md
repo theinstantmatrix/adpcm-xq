@@ -1,3 +1,8 @@
+adpcm-xq (with unofficial binaries for Windows ARM64/AArch64 + x86-64, fork of [dbry/adpcm-xq](https://github.com/dbry/adpcm-xq)).  
+Downloads are hosted at the [releases](https://github.com/theinstantmatrix/adpcm-xq/releases) section.
+
+---
+
 ## ADPCM-XQ
 
 Xtreme Quality ADPCM Encoder/Decoder
